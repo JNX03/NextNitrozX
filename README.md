@@ -6,9 +6,15 @@
 
 # Features
 
-SOON
+- Custom Streaming FPS & Resolution
+- Unlock emoji [ Gift and image ]
+- Discord activity "Unlock" 
+- Custom Discord activity
+- Custom Camera Resolution [ Width and height ] - Upcoming beta
+- Profile accents ( custom profile )
+- and more!
 
-## Recommended additional plugins for more Nitro features
+## Recommended additional plugins for more Nitro features [ Btw it going to attack to this plugin soon! ]
 
 [FreeStickers by An00nymushun](https://github.com/An00nymushun/DiscordFreeStickers) - Unlocked Sticker sending through converting to and uploading as a GIF.
 
