@@ -2,6 +2,7 @@
 
 <p align="center">Discord plugin that allows you to have feature like having nitro</p>
 
+![NextNitrozX](https://socialify.git.ci/JNDEV03/NextNitrozX/image?description=1&descriptionEditable=Discord%20plugin%20that%20allows%20you%20to%20have%20an%20feature%20like%20having%20Nitro&font=KoHo&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 # Features
 
