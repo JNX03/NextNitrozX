@@ -21,4 +21,4 @@
 
 [SplitLargeMessages by DevilBro](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SplitLargeMessages) - Send longer messages!
 
-[SplitLargeFiles by ImTheSquid](https://github.com/riolubruh/SplitLargeFiles) - Send large files by splitting them up into 8 megabyte chunks! YABDP4Nitro-compatible fork created by me.
+[SplitLargeFiles by ImTheSquid](https://github.com/riolubruh/SplitLargeFiles) - Send large files by splitting them up into 8 megabyte chunks! YABDP4Nitro-compatible
