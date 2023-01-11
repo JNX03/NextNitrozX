@@ -12,6 +12,7 @@
 - Custom Discord activity
 - Custom Camera Resolution [ Width and height ] - Upcoming beta
 - Profile accents ( custom profile )
+- Status Emoji "Unlock"
 - and more!
 
 ## Recommended additional plugins for more Nitro features [ Btw it going to attack to this plugin soon! ]
